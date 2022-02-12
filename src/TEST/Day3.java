@@ -30,6 +30,11 @@ public void BeforeClass() {
 		
 }
 	
+public void WebLoginCarloan1() {
+		
+		System.out.println("This is for WebLoginCarloan");
+		
+}
 	@Test
 	public void MobileLoginCarloan() {
 		
